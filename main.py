@@ -2,7 +2,7 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
-    pass
+    number = int(input('Enter the number: '))
 
 
 if __name__ == '__main__':
